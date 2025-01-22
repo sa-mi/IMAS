@@ -1,5 +1,6 @@
 # IMAS
-![botlogo](https://user-images.githubusercontent.com/65340912/82131050-07c53d00-9786-11ea-9175-fa97fd308cb3.jpg)
+![1711020553199122](https://github.com/user-attachments/assets/e4350428-5ae1-4e15-aa7c-f7dd9f89acdd)
+
 
 
 Simple bot made in discord.py
